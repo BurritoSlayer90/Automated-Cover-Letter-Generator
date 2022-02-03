@@ -11,7 +11,7 @@ Replace any instances of the company's name with "{{company}}" and any instances
 After that, simply navigate to your file folder in the Terminal, and execute the following line of code:
 python newcl.py
 
-You will be prompted to enter the company and position. After that, your new Cover letter will show up in the folder you chose!
+You will be prompted to enter the company and position. After that, your new Cover letter will show up in the folder you chose in word and pdf format!
 
 
 

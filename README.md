@@ -1,5 +1,8 @@
 # Automated-Cover-Letter-Generator
-I use this python script to automatically generate new Cover Letters for job apps. I made it with the help of this article: https://medium.com/@arjunbastola/tired-of-creating-new-cover-letter-for-every-job-you-apply-to-use-python-to-automate-it-c5516da9011a
+I use this python script to automatically generate new Cover Letters for job apps. I made it with the help of these articles: 
+https://medium.com/@arjunbastola/tired-of-creating-new-cover-letter-for-every-job-you-apply-to-use-python-to-automate-it-c5516da9011a
+
+https://fedingo.com/how-to-convert-docx-to-pdf-in-python-linux/
 
 First install the necessary libraries. There are two and they can be installed with the following command lines in your terminal/Command Prompt:
 

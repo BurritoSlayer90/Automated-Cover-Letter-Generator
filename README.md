@@ -4,7 +4,7 @@ I use this python script to automatically generate new Cover Letters for job app
 First install the docxtpl. library with the following command line in your terminal/Command Prompt:
 pip install docxtpl
 
-To use it, save the python code to a folder. That folder should also contain your Cover Letter template, titled "CLtemplate.docx"
+To use it, save the python code to a folder. That folder should also contain your Cover Letter template, titled "CLtemplate.docx" (I have saved my template as a reference)
 
 Replace any instances of the company's name with "{{company}}" and any instances of the position title as "{{role}}" in your CL template.
 
